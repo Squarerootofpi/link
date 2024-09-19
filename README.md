@@ -5,5 +5,8 @@
 
 ## Experiment links: 
 
-https://docs.google.com/document/d/1UFTc9BSNqgP6FyLWyfev0fx4OyqzfYS7k4ztcyGRzUM/edit
+The main setup links
+- https://docs.google.com/document/d/1UFTc9BSNqgP6FyLWyfev0fx4OyqzfYS7k4ztcyGRzUM/edit
 
+The whole folder, if you are totally lost
+- https://drive.google.com/drive/u/0/folders/1WSRaK6Yauukkidkf7bZnVopgoYMZH5SC
