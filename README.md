@@ -5,7 +5,10 @@
 
 ## Experiment links: 
 
-The main setup links
+Master Facilitator document
+- https://docs.google.com/document/d/1wSjNH8VRnHUVS0P59xzeCRMun6sHh5TgFS_yhuRfk6s/edit
+
+The main computer setup links
 - https://docs.google.com/document/d/1UFTc9BSNqgP6FyLWyfev0fx4OyqzfYS7k4ztcyGRzUM/edit
 
 The whole folder, if you are totally lost
